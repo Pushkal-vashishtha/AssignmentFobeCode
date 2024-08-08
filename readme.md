@@ -14,21 +14,22 @@ To run the application locally, follow these steps:
 ### Prerequisites
 - Node.js and npm installed. [Download Node.js](https://nodejs.org/)
 - Expo CLI installed globally:
+
   ```bash
   npm install -g expo-cli
 
-### HOW TO RUN
- ```bash 
+# Clone the repository
 git clone https://github.com/your-username/UserInformationApp.git
-###
- ```bash
+
+# Navigate into the project directory
 cd UserInformationApp
-###
- ```bash
+
+# Install the dependencies
 npm install
-###
- ```bash
+
+# Start the Expo project
 npx expo start
+
 
 ###  NOTES :-
 1. The app fetches data from random-data-api.com. Ensure you have a stable internet connection to retrieve the data.
