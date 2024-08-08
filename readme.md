@@ -17,13 +17,17 @@ To run the application locally, follow these steps:
   ```bash
   npm install -g expo-cli
 
-### HOW TO RUN 
+### HOW TO RUN
+ ```bash 
 git clone https://github.com/your-username/UserInformationApp.git
 ###
+ ```bash
 cd UserInformationApp
 ###
+ ```bash
 npm install
 ###
+ ```bash
 npx expo start
 
 ###  NOTES :-
