@@ -19,8 +19,11 @@ To run the application locally, follow these steps:
 
 ### HOW TO RUN 
 git clone https://github.com/your-username/UserInformationApp.git
+###
 cd UserInformationApp
+###
 npm install
+###
 npx expo start
 
 ###  NOTES :-
